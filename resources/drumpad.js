@@ -1,12 +1,12 @@
-let kick = new Audio('https://raw.githubusercontent.com/bencworlidge/ipads/master/resources/audio/kick.wav')
-let snare = new Audio('audio/snare.wav')
-let clap = new Audio("audio/clap.wav")
-let chh = new Audio('../resources/audio/chh.wav')
-let ohh = new Audio('../resources/audio/ohh.wav')
-let ht = new Audio('../resources/audio/ht.wav')
-let lt = new Audio('../resources/audio/lt.wav')
-let cv = new Audio('../resources/audio/cv.wav')
-let cb = new Audio('../resources/audio/cb.wav')
+let kick = new Audio('resources/audio/kick.wav')
+let snare = new Audio('resources/audio/snare.wav')
+let clap = new Audio('resources/audio/clap.wav')
+let chh = new Audio('resources/audio/chh.wav')
+let ohh = new Audio('resources/audio/ohh.wav')
+let ht = new Audio('resources/audio/ht.wav')
+let lt = new Audio('resources/audio/lt.wav')
+let cv = new Audio('resources/audio/cv.wav')
+let cb = new Audio('resources/audio/cb.wav')
 
 
 window.addEventListener("keypress", e => { 
