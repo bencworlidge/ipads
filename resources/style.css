@@ -1,0 +1,40 @@
+body {
+  background-image: url(./images/andreas-forsberg-R_GN1I76XjM-unsplash.jpg);
+  background-size: cover;
+}
+
+main {
+  border-style: solid;
+  border-color: black;
+  width: 600px;
+  height: 580px;
+  text-align: center;
+  margin: auto;
+  margin-top: 100px;
+  background-color: whitesmoke;
+  box-shadow: 2px 2px 2px black;
+  /* background-image: url(./images/justin-schuler-dBrdYvnQQiI-unsplash.jpg); */
+}
+
+#description {
+  font-size: large;
+  float: inline-start;
+  margin: 1rem;
+  margin-top: 20px;
+}
+
+.pads {
+  display: inline-flex;
+}
+
+.pad {
+  width: 100px;
+  height: 100px;
+  border-style: solid;
+  border-color: black;
+  margin: 30px 1px;
+  text-align: center;
+  padding-top: 33px;
+  background-color: rgb(255, 255, 117);
+  box-shadow: 1px 1px 3px black;
+}
