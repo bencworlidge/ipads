@@ -1,4 +1,4 @@
-let kick = new Audio('../resources/audio/kick.wav')
+let kick = new Audio('https://raw.githubusercontent.com/bencworlidge/ipads/master/resources/audio/kick.wav')
 let snare = new Audio('../resources/audio/snare.wav')
 let clap = new Audio('../resources/audio/clap.wav')
 let chh = new Audio('../resources/audio/chh.wav')
